@@ -7,11 +7,11 @@ const FONT_SIZE = 16;
 const PARTICIPANTS = [
   { id: 1, name: "Daniel Paz", role: "", img: "./Daniel_Paz-removebg-preview.png" },
   { id: 2, name: "Ezequiel Kinzler", role: "Edad: 39", img: "./Ezequiel_Kinzler-removebg-preview.png" },
-  { id: 3, name: "Germán Abranovich", role: "Edad: 29", img: "./German_Abranovich-removebg-preview.png" },
   { id: 4, name: "Lucas Vidal", role: "Edad: 24", img: "./Lucas_Vidal-removebg-preview.png" },
   { id: 5, name: "Miqueas Veliz", role: "Edad: 26", img: "./Miqueas_Veliz-removebg-preview.png" },
   { id: 6, name: "Salvador Kinzler", role: "Edad: 5", img: "./Salvador_Kinzler-removebg-preview.png" },
   { id: 7, name: "Samuel Lara", role: "Edad: 24", img: "./Samuel_Lara-removebg-preview.png" },
+  { id: 3, name: "Germán Abranovich", role: "Edad: 29", img: "./German_Abranovich-removebg-preview.png" },
  
 ];
 
